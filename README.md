@@ -5,10 +5,10 @@
 
 <p>
 <div>
- <a href="https://wojnet.github.io/passgen/">
+ <a href="https://wojnet.github.io/passgen/" target="_blank">
  <img src="https://raw.githubusercontent.com/wojnet/passgen/main/src/images/logo.png" />
  </a><br />
- <p><b><a href="https://wojnet.github.io/passgen/">PASSGEN</a></b> is a simple application made for generating strong and <i>nearly impossible</i> to remember passwords! The application will be updated to be more useful and <i>still</i> simple to use.</p>
+ <p><b><a href="https://wojnet.github.io/passgen/" target="_blank">PASSGEN</a></b> is a simple application made for generating strong and <i>nearly impossible</i> to remember passwords! The application will be updated to be more useful and <i>still</i> simple to use.</p>
  </div>
 </p>
 

@@ -1,5 +1,5 @@
 ### 👋 Hi
-My name's Wojtek, and I'm web developer and programmer from Poland.
+My name's pośrudas, and I'm web developer and programmer from Poland.
 **↓ Check out my projects↓**
 
 ---

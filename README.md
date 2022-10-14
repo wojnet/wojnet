@@ -1,6 +1,6 @@
 ### 👋 Hi
 My name's pośrudas, and I'm web developer and programmer from Poland.
-**↓ Check out my projects↓**
+**↓ Check out my fart gallery↓**
 
 ---
 

@@ -1,6 +1,6 @@
 ### 👋 Hi
-My name's pośrudas, and I'm web developer and programmer from Poland.
-**↓ Check out my fart gallery↓**
+My name's pośrudas, and I'm the sussiest person in the world and i live in suserville in Italy.
+**↓ Check out my fart gallery ↓**
 
 ---
 

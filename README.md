@@ -1,12 +1,11 @@
 ### 👋 Hi
-My name's pośrudas, and I'm the sussiest person in the world and i live in suserville in Italy.
-**↓ Check out my fart gallery ↓**
+My name's Wojciech, and I love making apps in React and JavaScript.
+**↓ Check out my projects ↓**
 
 ---
 
 <p>
 <div>
- <p><b><a href="https://wojnet.github.io/passgen/" target="_blank">CANVAS GAME</a></b> - Small collab game with <a href="https://www.github.com/kn1jck">@kn1jck</a></p>
  <p><b><a href="https://wojnet.github.io/passgen/" target="_blank">PASSGEN</a></b> is a simple application made for generating strong and <i>nearly impossible</i> to remember passwords! The application will be updated to be more useful and <i>still</i> simple to use.</p>
  </div>
 </p>

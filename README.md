@@ -13,7 +13,7 @@ My name's Wojciech, and I love making apps in React and JavaScript.
 
 <p>
 <div>
- <p><b><a href="https://wojciechglid.netlify.app/" target="_blank">MY PORTFOLIO</a></b> no descripion...</p>
+ <p><b><a href="https://wojciechglid.netlify.app/" target="_blank">MY PORTFOLIO</a></b> no descripion needed</p>
  </div>
 </p>
 

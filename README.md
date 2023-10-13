@@ -1,5 +1,5 @@
 ### 👋 Hi
-My name's Wojciech, and I love making apps in React and JavaScript.
+My name's Wojciech, and I love programming.
 **↓ Check out my projects ↓**
 
 ---

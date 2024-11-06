@@ -6,7 +6,7 @@ My name's Wojciech, and I love programming.
 
 <p>
 <div>
- <p><b><a href="http://bangerify.com" target="_blank">BANGERIFY</a></b> is the social media app to share your hot takes on music. It's co-created with <a href="https://github.com/dKasperek" target="_blank">@dKasperek</a></p>
+ <p><b><s><a href="http://bangerify.com" target="_blank">BANGERIFY</a></b> is the social media app to share your hot takes on music. It's co-created with <a href="https://github.com/dKasperek" target="_blank">@dKasperek</s> (currently discontinued)</a></p>
  </div>
 </p>
 

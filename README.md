@@ -1,8 +1,6 @@
-### 👋 Hi
-My name's Wojciech, and I love programming.
-**↓ Check out my projects ↓**
+# 👋 Hi, I'm Wojciech
 
----
+I create with passion, and listen to good music
 
 <p>
 <div>

@@ -1,6 +1,6 @@
 # 👋 Hello githubers
 
-My name is Wojciech and I'm polish IT student with passion in nerdy stuff. I'm currently learning ASP.NET Core to make some great things in the future!
+My name is Wojciech and I'm polish IT student with passion in nerdy stuff (AutoCAD). I'm currently learning ASP.NET Core to make some great things in the future!
 
 ## Some of my work
 

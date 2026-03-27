@@ -6,7 +6,7 @@ My name is Wojciech and I'm polish IT student with passion in nerdy stuff (AutoC
 
 <p>
 <div>
- <p><b><a href="https://reverse-app.vercel.app/" target="_blank">📀 REVERSE APP</a></b> - the songwriting tool to help you write songs</a></p>
+ <p><b><a href="https://reverse-app.vercel.app/" target="_blank">📀 REVERSE APP</a></b></p>
  </div>
 </p>
 

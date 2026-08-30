@@ -1,18 +1,17 @@
-# 👋 Hello githubers
+# ୨୧・Hello, I'm Wojciech
 
-My name is Wojciech and I'm polish IT student with passion in nerdy stuff (AutoCAD). I'm currently learning ASP.NET Core to make some great things in the future!
+> 🇵🇱 Polish IT student · 💻 Software Quality Engineer at UBS · 🎸 Guitar enjoyer
 
-## Some of my work
+Currently diving deeper into **test automation, test design patterns & software engineering** — breaking things so other things don't have to.
 
-<p>
-<div>
- <p><b><a href="https://reverse-app.vercel.app/" target="_blank">📀 REVERSE APP</a></b></p>
- </div>
-</p>
+### ✦ Some things I've made
 
+**[MY PORTFOLIO](https://wojciechglid.netlify.app/)**
+**[REVERSE APP](https://reverse-app.vercel.app/)**  
+**[MY MUSIC](https://linktr.ee/znakidymne/)**
 
-<p>
-<div>
- <p><b><a href="https://wojciechglid.netlify.app/" target="_blank">💼 MY PORTFOLIO</a></b></p>
- </div>
-</p>
+`Playwright` · `TypeScript` · `Next.js` · `PostgreSQL` · `C#`
+
+──────────────── ⋆⋅☆⋅⋆ ────────────────
+
+*the funny thing about quality is that it can always be improved*

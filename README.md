@@ -2,7 +2,7 @@
 
 > 🇵🇱 Polish IT student · 💻 Software Quality Engineer @ UBS · 🎸 Huge music enjoyer
 
-Currently diving deeper into **test automation, test design patterns & software engineering** — breaking things so other things don't have to.
+Currently diving deeper into **test automation, test design patterns & software engineering**. Making developers cry.
 
 ### ✦ Some things I've made
 

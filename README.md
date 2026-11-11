@@ -10,7 +10,7 @@ Currently diving deeper into **test automation, test design patterns & software 
 - **[REVERSE APP](https://reverse-app.vercel.app/)**  
 - **[MY MUSIC](https://linktr.ee/znakidymne/)**
 
-`Playwright` · `TypeScript` · `Next.js` · `PostgreSQL` · `C#`
+`Playwright` · `TypeScript` · `Next.js` · `PostgreSQL` · `Java` ·  `C#`
 
 ──────────────── ⋆⋅☆⋅⋆ ────────────────
 
